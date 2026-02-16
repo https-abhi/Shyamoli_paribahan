@@ -1,0 +1,7 @@
+Requirement.Text
+
+streamlit
+pandas
+plotly
+openpyxl
+setuptools
