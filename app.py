@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 # Page configuration
 st.set_page_config(page_title="Travel Data Analyst", layout="wide")
 
-st.title("📊 Revenue Performance Analysis of Shyamoli Paribahan Dashboard”)
+st.title("📊 Revenue Performance Analysis of Shyamoli Paribahan Dashboard")
 st.markdown("Upload your **Excel (.xlsx)** booking dataset to generate instant insights.")
 
 # --- File Upload Section ---
